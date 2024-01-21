@@ -1,0 +1,27 @@
+.navbar{
+    /* background-color: green; */
+    background-image: url("c:\Users\Aseem\Downloads\images_1.avif");
+    padding: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.elements{
+    align-items: center;
+    display: flex;
+    justify-content: right;
+    color: #d9f891;
+}
+
+.navbar a{
+    justify-content: right;
+    display: flex;
+}
+
+.navbar button{
+    padding: 10px 25px;
+    margin-left: 40px;
+    background-color: #d8eb2f;
+    color: #e6fda3;
+    border-radius: 15px;
+}
